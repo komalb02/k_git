@@ -5,7 +5,7 @@ public class aot {
         Scanner sn= new Scanner(System.in);
         System.out.println("Enter base of triangle:");
         double base = sn.nextDouble();
-        System.out.println("Enter base of triangle");
+        System.out.println("Enter height of triangle");
         double height = sn.nextDouble();
 
         aot at=new aot();
@@ -17,5 +17,5 @@ public class aot {
         return base*height/2;
     }
 }
-
+//some changes in development(komal2) file and push to github.
 
